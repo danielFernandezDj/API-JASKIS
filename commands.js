@@ -26,6 +26,7 @@ db.bounties.find({})
 
 // 3. Insert many bounties at once using the given objects
 db.bounties.insertMany ([
+    /*
     {
       "name": "Lokinkajou",
       "species": "Kinkajou",
@@ -81,6 +82,7 @@ db.bounties.insertMany ([
       "captured": false
     }
   ])
+   */
 
 // MANAGE THE DATABASE
 // Queries
